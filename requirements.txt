@@ -3,7 +3,6 @@ boto3==1.18.42
 botocore==1.21.42
 Django==3.2.7
 django-bootstrap3==15.0.0
-django-faker==0.2
 django-filter==2.4.0
 django-storages==1.11.1
 fake-factory==9999.9.9
